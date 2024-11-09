@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# 
+# Start of session at: Wed Jul 17 15:14:23 2024
+# Process ID: 46736
+# Current directory: C:/Users/VAYSSADET/Documents/Cours/HAE924_Systemes_puce/tuto_microblaze_OK/project_1/project_1.sdk/webtalk
+# Command line: wbtcv.exe -mode batch -source sdk_webtalk.tcl
+# Log file: C:/Users/VAYSSADET/Documents/Cours/HAE924_Systemes_puce/tuto_microblaze_OK/project_1/project_1.sdk/webtalk/webtalk.log
+# Journal file: C:/Users/VAYSSADET/Documents/Cours/HAE924_Systemes_puce/tuto_microblaze_OK/project_1/project_1.sdk/webtalk\webtalk.jou
+#-----------------------------------------------------------
+source sdk_webtalk.tcl

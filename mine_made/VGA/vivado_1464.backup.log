@@ -1,0 +1,29 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Sun Oct 20 12:02:01 2024
+# Process ID: 1464
+# Current directory: C:/Users/Ali/Pictures/Xilinx/pong_game/mine_made/VGA
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent12860 C:\Users\Ali\Pictures\Xilinx\pong_game\mine_made\VGA\VGA.xpr
+# Log file: C:/Users/Ali/Pictures/Xilinx/pong_game/mine_made/VGA/vivado.log
+# Journal file: C:/Users/Ali/Pictures/Xilinx/pong_game/mine_made/VGA\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Ali/Pictures/Xilinx/pong_game/mine_made/VGA/VGA.xpr
+INFO: [Project 1-313] Project file moved from 'C:/Users/Ali/Pictures/Xilinx/top_VGA_driver' since last save.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2018.3/data/ip'.
+open_project: Time (s): cpu = 00:00:13 ; elapsed = 00:00:07 . Memory (MB): peak = 797.789 ; gain = 118.133
+update_compile_order -fileset sources_1
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 8
+[Sun Oct 20 12:51:02 2024] Launched synth_1...
+Run output will be captured here: C:/Users/Ali/Pictures/Xilinx/pong_game/mine_made/VGA/VGA.runs/synth_1/runme.log
+[Sun Oct 20 12:51:02 2024] Launched impl_1...
+Run output will be captured here: C:/Users/Ali/Pictures/Xilinx/pong_game/mine_made/VGA/VGA.runs/impl_1/runme.log
+exit
+INFO: [Common 17-206] Exiting Vivado at Sun Oct 20 12:52:45 2024...
